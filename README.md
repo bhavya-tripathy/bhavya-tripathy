@@ -63,7 +63,7 @@ Here’s where I’m learning, documenting, and building:
 ---
 
 ### 🌐 connect with me
-- 💌 `bhavya.tripathy@email.com`
+- 💌 `bhavya.tripathy@gmail.com`
 - 🔗 [LinkedIn](#) (coming soon)
 - 🖋️ Writing, sketching, and building something meaningful every single day
 
