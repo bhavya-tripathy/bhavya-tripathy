@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">✨ Bhavya Tripathy ✨</h1>
+<p align="center">
+  first-year cs student · creative technologist in the making · building echoRoom · writing code & novels  
+</p>
+<p align="center"><i>“one day, the things you're building will become the world you live in.”</i></p>
 
-<!--
-**bhavya-tripathy/bhavya-tripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌸 about me
+- 🎓 BTech CSE @ Manipal University Jaipur (Class of 2029)
+- 🧠 Exploring the intersection of code, creativity, and emotion
+- ✍️ Author of *The Sunflower Field* – a novel about memory, longing, and silence(in progess)
+- 🎧 Founder of *EchoRoom* – a space for Gen Z to rediscover rock music through visuals + emotion
+- 🛠️ I believe in building tools that feel like art and work like science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌿 currently learning
+| 🧩 Subject | 📚 Focus |
+|-----------|----------|
+| Python | Core syntax, OOP, file handling, libraries |
+| DSA | Arrays, Linked Lists, Trees, Sorting & Searching |
+| Git & GitHub | Commits, branches, pull requests, collaboration |
+| Web Dev | HTML, CSS, JS (for portfolio & EchoRoom MVP) |
+| Product Design | UX, wireframes, emotional design thinking |
+
+---
+
+### 🧪 my personal lab
+Here’s where I’m learning, documenting, and building:
+
+- 🔧 [`echo-room`](#): Creative music + visual expression platform  
+- 🐍 [`python-dsa-journey`](#): 100-day learning journal with structured DSA prep  
+- 🌐 [`portfolio`](#): A minimal, elegant developer site (coming soon)  
+- 📓 [`idea-garden`](#): Notes, feature sketches, and unfinished but loved ideas
+
+---
+
+### 🌌 personal philosophy
+> *“i want to build like a poet and think like an engineer.”*
+
+- I'm not just learning syntax — I'm learning how to think clearly  
+- I'm not just building features — I'm building **feeling**
+- Every commit is a brick in the world I want to live in
+
+---
+
+### 📈 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavya-tripathy&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya-tripathy&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🪄 side quests
+- Writing my first novel
+- Learning to draw UI ideas by hand
+- Studying human behavior for better design
+- Trying to live a life I won’t need a break from
+
+---
+
+### 🌐 connect with me
+- 💌 `bhavya.tripathy@email.com`
+- 🔗 [LinkedIn](#) (coming soon)
+- 🖋️ Writing, sketching, and building something meaningful every single day
+
+---
+
+<p align="center"><i>“In a world of cold algorithms, I want to be the warmth in the code.”</i></p>
