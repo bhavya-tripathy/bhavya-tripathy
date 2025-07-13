@@ -29,11 +29,10 @@
 ### 🧪 my personal lab
 Here’s where I’m learning, documenting, and building:
 
-- 🔧 [`echo-room`](#): Creative music + visual expression platform  
-- 🐍 [`python-dsa-journey`](#): 100-day learning journal with structured DSA prep  
-- 🌐 [`portfolio`](#): A minimal, elegant developer site (coming soon)  
-- 📓 [`idea-garden`](#): Notes, feature sketches, and unfinished but loved ideas
-
+- 🔧 [`echo-room`](https://echoroom.my.canva.site/): Creative music + visual expression platform  
+- 🐍 [`python-dsa-journey`](https://github.com/bhavya-tripathy/python-dsa-journey): 100-day learning journal with structured DSA prep  
+- 🌐 [`portfolio`](https://www.canva.com/design/DAGsFpMMuYQ/iQjXrw5gdWBGbEmqbNVLIw/view?utm_content=DAGsFpMMuYQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he38dac0685): A minimal, elegant developer site 
+- 
 ---
 
 ### 🌌 personal philosophy
