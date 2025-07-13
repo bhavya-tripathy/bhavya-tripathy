@@ -33,7 +33,7 @@
 
 - 🔧 [`echo-room`](https://echoroom.my.canva.site): Music + visuals + emotion — a Gen Z experiment  
 - 🐍 [`python-dsa-journey`](https://github.com/bhavya-tripathy/python-dsa-journey): 100-day log of algorithms, concepts & clarity  
-- 🌐 [`portfolio`](https://www.canva.com/design/DAGsFpMMuYQ/iQjXrw5gdWBGbEmqbNVLIw/view): Minimal developer site, shaped by meaning  
+- 🌐 [`portfolio`](https://echoroom.my.canva.site/bhavya-tripathy): Minimal developer site, shaped by meaning  
 - 🌱 [`idea-garden`](#): Early seeds of future products, stories, systems
 
 ---
