@@ -1,52 +1,62 @@
-<h1 align="center">✨ Bhavya Tripathy ✨</h1>
+<h1 align="center"> Bhavya Tripathy </h1>
 <p align="center">
-  creative technologist in the making · cs @ manipal · building systems, writing stories, dreaming out loud  
+  Creative technologist in the making · cs @ manipal · building systems, writing stories, dreaming out loud  
 </p>
 <p align="center"><i>“One day, the things you're building will become the world you live in.”</i></p>
 
 ---
-
 ### 🌻 about me
 
 - 🎓 First-year B.Tech CSE @ Manipal University Jaipur (Class of 2029)  
-- 📍 Currently studying Digital Logic, Engineering Maths, Python, and C  
-- 🧠 Exploring where **engineering meets emotion**, and **code becomes art**  
-- ✍️ Author of *The Sunflower Field* — a novel about grief, memory, and the ache of unfinished love  
-- 🎧 Founder of *EchoRoom* — a Gen Z platform reimagining how we emotionally experience rock music  
-- 🛠 I believe good tools feel like *poetry wrapped in logic* — intentional, timeless, and human  
+- 📍 Studying Digital Logic, Engineering Maths, Python, and C  
+- 🧠 Exploring where **engineering meets emotion** and **systems meet storytelling**  
+- ✍️ Author of *The Sunflower Field* — a novel about memory, grief, and unfinished love  
+- 🎧 Founder of *EchoRoom* — reimagining how Gen Z experiences rock music through emotion and design  
+- 🔬 Researcher on *EchoSense* — fine-grained emotion detection in creative text for mental health applications  
+- 🛠 I believe the best tools feel like *poetry wrapped in logic* — intentional, human, and timeless  
 
 ---
 
 ### 🏗️ building myself
 
-| 💡 Discipline         | 🎯 Focus |
-|----------------------|---------|
-| **Python & DSA**     | Recursion, Trees, OOP, 500+ problem roadmap |
-| **C Language**       | Logic, memory management, syntax foundation |
-| **Web Development**  | HTML, CSS, JS — building EchoRoom’s MVP |
-| **Git & GitHub**     | Personal repositories, collaboration, docs |
-| **Design Thinking**  | Emotional UX, wireframes, narrative systems |
-| **Core CS**          | Digital Logic, Engineering Mathematics, Systems Thinking |
+| 💡 Discipline         | 🎯 Current Focus |
+|----------------------|-----------------|
+| **Python & DSA**     | Recursion, Trees, OOP · 500+ problem roadmap |
+| **C Language**       | Syntax mastery · memory management |
+| **Web Development**  | HTML · CSS · JS · Tailwind · React → EchoRoom’s MVP |
+| **Prototyping**      | Streamlit · quick experiments · data-driven apps |
+| **Git & GitHub**     | Docs, collabs, clean repos |
+| **Design Thinking**  | Emotional UX · narrative-driven systems |
+| **Core CS**          | Digital Logic · Engineering Mathematics · Systems Thinking |
 
 ---
 
-### 🔬 my personal lab  
-> *A space for experiments, clarity, and building with soul.*
+### 🔬 personal lab  
+> *A workshop of clarity, experiments, and things built with soul.*
 
 - 🔧 [`echo-room`](https://echoroom.my.canva.site): Music + visuals + memory — a Gen Z emotional tech project  
-- 🐍 [`python-dsa-journey`](https://github.com/bhavya-tripathy/python-dsa-journey): My 100-day path to mastering algorithms and clear thinking  
-- 🌐 [`portfolio`](https://echoroom.my.canva.site/bhavya-tripathy): A minimal, intentional dev portfolio  
-- 🌱 [`idea-garden`](#): Seeds of future products, tools, and stories — both written and built
+- 🧠 [`echosense`](https://github.com/bhavya-tripathy/EchoSense): Research project — *Beyond Polarity: Fine-Grained Emotion Detection in Creative Text for Mental Health*  
+  - Tackling the limits of binary sentiment analysis  
+  - Capturing subtle feelings like nostalgia, grief, loneliness, longing  
+  - Toward empathetic AI systems for digital well-being  
+- 💡 [`spaytiawise`](https://github.com/bhavya-tripathy/SpaytiaWise): HackForge hackathon project — subscription & recurring payment tracker  
+  - USP: “Stop leaks. Stay wise.”  
+  - Built with a team to address financial clarity for Gen Z & freelancers  
+- 🐍 [`python-dsa-journey`](https://github.com/bhavya-tripathy/python-dsa-journey): My daily path toward algorithmic mastery  
+- 🌐 [`portfolio`](https://echoroom.my.canva.site/bhavya-tripathy): A minimal dev portfolio in progress  
 
 ---
 
-### 🧠 mindset & mission
+### 🧠 mindset & mission  
 
-> *"I want to build like a poet, think like an engineer, and live like a founder."*
+> *"I want to write with the honesty of a poet, think with the clarity of an engineer, and build with the courage of a founder."*  
 
-- I don't just learn code — I learn to think **clearly, responsibly, and creatively**  
-- I don't just build for functionality — I design with **emotion, memory, and intention**  
-- Whether writing a novel or building a system, I aim to create work that *feels like truth*  
+- I don’t just code — I train my mind to **think deeply, precisely, and creatively**  
+- I don’t just build systems — I craft them with **memory, emotion, and human intent**  
+- My rulebook is simple: **move, build, create** — discipline in body, clarity in code, honesty in art  
+- I treat college not as a degree, but as the **launchpad of an empire of ideas**  
+- Whether it’s a novel, a startup, or research, I aim for work that feels **timeless, truthful, and alive**  
+ 
 
 ---
 
